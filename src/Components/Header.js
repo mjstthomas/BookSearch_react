@@ -5,7 +5,7 @@ export default class Header extends Component {
         return (
             <div style={maindiv}>
 
-                <h1> Searh for your Favorite BOOK</h1>
+                <h1> Search for your Favorite BOOK</h1>
                 
             </div>
         )
